@@ -9,5 +9,5 @@ PyQt5 kütüphanesine pip üzerinden erişim sağlayabilirsiniz.
 
 	git clone https://github.com/orcuntuna/python-zar.git
 	cd python-zar
-	pip3 install pyqt5
+	pip3 install -r requirements.txt
 	python3 main.py
